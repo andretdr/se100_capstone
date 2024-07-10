@@ -1,0 +1,4 @@
+/** Header container */
+.bg-header{
+    background-color: var(--headerblue);
+  }

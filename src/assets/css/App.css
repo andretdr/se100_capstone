@@ -1,0 +1,8 @@
+/** centering elements */
+#root {
+  --headerblue: #008CBA;
+}
+
+.body{
+  min-height: 100vh;
+}

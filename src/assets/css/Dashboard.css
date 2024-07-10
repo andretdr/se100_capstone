@@ -1,0 +1,34 @@
+/** parent container for input component */
+.dashboard_component_container{
+    background-color: rgb(250, 250, 250);
+    min-height: 24rem;
+}
+
+/** parent container for dashboard */
+.dashboard_container{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+@media only screen and (min-width: 540px) {
+    /** parent container for dashboard */
+    .dashboard_container{
+        padding-top: 10rem;
+        padding-bottom: 2rem;
+}
+}
+
+/** container for dashboard forms */
+.dashboard_forms_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.input_box{
+    height: 2.5em;
+    border-radius: 5px;
+    border-color: rgb(194, 194, 194);
+}
+
