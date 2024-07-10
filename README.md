@@ -1,8 +1,11 @@
-# React + Vite
+# Introduction
+Capstone SE100 is the capstone project for heicoders SE100 course.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Development
+The collect of apps is developed with each using a different combination of React, Bootstrap, Vanilla CSS to implement.  
+It is built on Vite using Node.js and managed with NPM.  
+It is deployed on Github Pages.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Full feature list
+- It is a Single Page Application which does an **API call** to [Alpha Vantage](https://www.alphavantage.co) using a free demo API key
+- Simple input verification is managed using regex
