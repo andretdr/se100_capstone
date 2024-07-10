@@ -20,7 +20,7 @@ const FooterComponent = () => {
 			</div>	
 			<div className='col-2'>
 				<a href='https://www.linkedin.com/in/andre-tong-51b9044/'><img src={linkedin} height='50px' width='50px' className='m-2'/></a>
-				<a href='https://github.com/andretdr/frontEndSuites'><img src={github} height='50px' width='50px' className='m-2'/></a>
+				<a href='https://github.com/andretdr/se100_capstone'><img src={github} height='50px' width='50px' className='m-2'/></a>
 			</div>	
 		</div>
 
